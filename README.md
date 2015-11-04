@@ -4,8 +4,8 @@ This script shows step by step the convolution operation between two functions: 
 
 ##Input
 * Initial point ( in x axis)
-* Ending point (in axis )
+* Ending point (in  x axis )
 * Exponent for exponential function
 
 ##Output
-*Shows convolution graph
+* Shows convolution graph
